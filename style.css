@@ -1,0 +1,12 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+    }
+    .objects{
+    color:darkgoldenrod;
+    }
+    #camera{
+    border:2px dashed rgba(255, 94, 0, 0.671);
+    width:200px;
+    height: 200px;
+    }
