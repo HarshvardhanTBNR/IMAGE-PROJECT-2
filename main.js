@@ -14,7 +14,7 @@ Webcam.set({
     });
     }
     console.log("ml5 version=",ml5.version);
-    var classifier= ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/kOXxkR-jk/model.json",modelLoaded)
+    var classifier= ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/Pwc42Sm68/model.json",modelLoaded)
     
     function modelLoaded(){
     console.log("Model loaded")
